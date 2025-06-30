@@ -23,3 +23,9 @@ INSTALACIÓN DEL PROYECTO DJANGO
 5. Instala las dependencias del proyecto usando requirements.txt:
 
    pip install -r requirements.txt
+
+6. Creacion de usuarios administrativos de sistema:
+
+   Al ejecutar el archivo CreateUser.py saldra una ventana donde podremos generar
+   las credenciales de inicio para nuevos usuarios
+ 
